@@ -33,10 +33,6 @@ const requireLogin = (req, res, next) => {
     next()
 }
 
-app.get('/', (req, res) => {
-    res.send('Home Page')
-})
-
 app.get('/register', (req, res) => {
     res.render('register')
 })
@@ -46,7 +42,7 @@ app.post('/register', async (req, res) => {
     const user = new User({username,password})
     user.save()
     req.session.user_id = user._id
-    res.redirect('/')
+    res.render('login')
 
 })
 
