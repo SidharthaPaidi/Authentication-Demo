@@ -11,4 +11,4 @@ This repository contains a demonstration of a simple authentication page impleme
 
 Watch the demo video of this project to see how the authentication page works:
 
-[![Authentication Page Demo](https://res.cloudinary.com/dhorfmxva/image/upload/v1714454908/Screenshot_2024-04-30_105800_qgt4uv.png)](https://res.cloudinary.com/dhorfmxva/video/upload/v1714454501/Recording_2024-04-30_104912_ip14f4.mp4)
+[![Authentication Page Demo](https://res.cloudinary.com/dhorfmxva/image/upload/v1714454908/Screenshot_2024-04-30_105800_qgt4uv.png)](https://drive.google.com/file/d/1JkNvCgfh8AP5fKjn5kMRlEaKtSm3aLT3/view?usp=sharing)
