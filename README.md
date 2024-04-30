@@ -9,6 +9,6 @@ This repository contains a demonstration of a simple authentication page impleme
 
 ## Project Demo Video
 
-Watch the demo video of this project to see how the authentication page works:
+Watch the demo video of this project to see how the authentication page works. Click to View the video:
 
 [![Authentication Page Demo](https://res.cloudinary.com/dhorfmxva/image/upload/v1714454908/Screenshot_2024-04-30_105800_qgt4uv.png)](https://drive.google.com/file/d/1JkNvCgfh8AP5fKjn5kMRlEaKtSm3aLT3/view?usp=sharing)
